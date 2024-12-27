@@ -1,1 +1,1 @@
-A project for school aboat making a game with libGDX.
+A school project in 10th grade, making a game with the libGDX game engine.
